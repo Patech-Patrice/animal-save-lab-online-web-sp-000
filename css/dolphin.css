@@ -22,5 +22,10 @@ html {
 
 
 
-
+@media screen and (min-width: 642px) and (max-width: 1090px) {
+  #dolphin {
+    top: 40px;
+    transform: rotate(300deg);
+  }
+}
 
